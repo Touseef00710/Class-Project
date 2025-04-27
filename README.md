@@ -16,7 +16,6 @@ Features
 4. Update Student Info
                      a. Find by name and update fields (age, marks)
 5. Delete a Record
-
                      a. Remove a student by name
 6. Analyze Grades
                      a. Count how many students got A, B, etc.
